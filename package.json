@@ -1,0 +1,11 @@
+{
+  "name": "pario-monad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --harmony --recursive test/"
+  },
+  "author": "Tyler Cooper",
+  "license": "ISC"
+}
